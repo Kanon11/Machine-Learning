@@ -1,0 +1,8 @@
+Tab = complete a variable
+Shift + Tab = documentation
+Escape+L = linenumber show
+Shift+Return = Execute current code cell
+Escape = Command Mode
+Return = Edit Mode
+command mode + 0 + 0 = Restart Karnel
+
